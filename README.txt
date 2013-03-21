@@ -21,3 +21,5 @@ GitHub page: http://blstream.github.com/UrbanGame/
 Branch info
 ===========
 This is Web branch. Please check other branches if you are interesting in other platforms.
+
+URBNG-15 task.
